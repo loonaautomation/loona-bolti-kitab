@@ -1,0 +1,28 @@
+{
+  "name": "Loona Bolti Kitab",
+  "short_name": "Bolti Kitab",
+  "description": "Loona Bolti Kitab reads any book page aloud: photo the page, hear it explained in easy Urdu, Roman Urdu or English. Free \u2014 for mothers, elders and children.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
