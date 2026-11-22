@@ -1,7 +1,7 @@
 {
-  "name": "Loona Bolti Kitab",
-  "short_name": "Bolti Kitab",
-  "description": "Loona Bolti Kitab reads any book page aloud: photo the page, hear it explained in easy Urdu, Roman Urdu or English. Free \u2014 for mothers, elders and children.",
+  "name": "Loona Speaking Book",
+  "short_name": "Speaking Book",
+  "description": "Loona Speaking Book reads any book page aloud: photo the page, hear it explained in easy Urdu, Roman Urdu or English. Free \u2014 for mothers, elders and children.",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
